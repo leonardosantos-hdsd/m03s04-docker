@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "nome": "Caneca Térmica Sage Green",
+    "preco": 24.00,
+    "descricao": "Caneca elegante e compacta, mantém sua bebida quente ou fria por mais tempo.",
+    "imagem": "https://exemplo.com/caneca-sage-green.jpg"
+  },
+  {
+    "id": "2",
+    "nome": "Notebook Dell Inspiron 15",
+    "preco": 2499.90,
+    "descricao": "Notebook com processador Intel Core i5, 8GB RAM, SSD 256GB.",
+    "imagem": "https://exemplo.com/notebook-dell.jpg"
+  },
+  {
+    "id": "3",
+    "nome": "Mouse Wireless Logitech",
+    "preco": 89.90,
+    "descricao": "Mouse sem fio com tecnologia ótica e bateria de longa duração.",
+    "imagem": "https://exemplo.com/mouse-logitech.jpg"
+  },
+  {
+    "id": "4",
+    "nome": "Teclado Mecânico RGB",
+    "preco": 299.90,
+    "descricao": "Teclado mecânico com switches Cherry MX e iluminação RGB personalizável.",
+    "imagem": "https://exemplo.com/teclado-rgb.jpg"
+  },
+  {
+    "id": "5",
+    "nome": "Monitor 24\" Full HD",
+    "preco": 799.90,
+    "descricao": "Monitor LED 24 polegadas com resolução Full HD e entrada HDMI.",
+    "imagem": "https://exemplo.com/monitor-24.jpg"
+  },
+  {
+    "id": "6",
+    "nome": "Fone de Ouvido Bluetooth",
+    "preco": 159.90,
+    "descricao": "Fone de ouvido sem fio com cancelamento de ruído e qualidade de áudio premium.",
+    "imagem": "https://exemplo.com/fone-bluetooth.jpg"
+  },
+  {
+    "id": "7",
+    "nome": "Smartphone Samsung Galaxy",
+    "preco": 1299.90,
+    "descricao": "Smartphone com tela de 6.1 polegadas, câmera tripla e 128GB de armazenamento.",
+    "imagem": "https://exemplo.com/samsung-galaxy.jpg"
+  },
+  {
+    "id": "8",
+    "nome": "Cadeira Gamer Ergonômica",
+    "preco": 899.90,
+    "descricao": "Cadeira gamer com apoio lombar, braços ajustáveis e estofado em couro sintético.",
+    "imagem": "https://exemplo.com/cadeira-gamer.jpg"
+  },
+  {
+    "id": "9",
+    "nome": "SSD Kingston 480GB",
+    "preco": 299.90,
+    "descricao": "SSD SATA III de 480GB com alta velocidade de leitura e escrita.",
+    "imagem": "https://exemplo.com/ssd-kingston.jpg"
+  },
+  {
+    "id": "10",
+    "nome": "Webcam Logitech HD",
+    "preco": 199.90,
+    "descricao": "Webcam Full HD com microfone integrado e correção automática de luz.",
+    "imagem": "https://exemplo.com/webcam-logitech.jpg"
+  },
+  {
+    "id": "11",
+    "nome": "Placa de Vídeo GTX 1660",
+    "preco": 1899.90,
+    "descricao": "Placa de vídeo NVIDIA GTX 1660 com 6GB GDDR5 para jogos e edição.",
+    "imagem": "https://exemplo.com/gtx-1660.jpg"
+  },
+  {
+    "id": "12",
+    "nome": "Processador AMD Ryzen 5",
+    "preco": 799.90,
+    "descricao": "Processador AMD Ryzen 5 de 6 núcleos com tecnologia de 7nm.",
+    "imagem": "https://exemplo.com/ryzen-5.jpg"
+  },
+  {
+    "id": "13",
+    "nome": "Memória RAM 16GB DDR4",
+    "preco": 399.90,
+    "descricao": "Memória RAM DDR4 16GB 3200MHz para alta performance em jogos e aplicações.",
+    "imagem": "https://exemplo.com/ram-16gb.jpg"
+  },
+  {
+    "id": "14",
+    "nome": "HD Externo 1TB",
+    "preco": 299.90,
+    "descricao": "HD externo portátil de 1TB com conexão USB 3.0 para backup de dados.",
+    "imagem": "https://exemplo.com/hd-externo.jpg"
+  },
+  {
+    "id": "15",
+    "nome": "Impressora Multifuncional HP",
+    "preco": 599.90,
+    "descricao": "Impressora multifuncional com scanner, copiadora e conexão Wi-Fi.",
+    "imagem": "https://exemplo.com/impressora-hp.jpg"
+  }
+]

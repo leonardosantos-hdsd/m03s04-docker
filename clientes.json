@@ -1,0 +1,12 @@
+[
+	{"id": "1", "nome": "João Silva", "endereco": "Rua das Flores, 123"},
+	{"id": "2", "nome": "Maria Oliveira", "endereco": "Av. Brasil, 456"},
+	{"id": "3", "nome": "Carlos Souza", "endereco": "Rua do Sol, 789"},
+	{"id": "4", "nome": "Ana Paula", "endereco": "Rua das Palmeiras, 101"},
+	{"id": "5", "nome": "Pedro Santos", "endereco": "Av. Central, 202"},
+	{"id": "6", "nome": "Fernanda Lima", "endereco": "Rua das Acácias, 303"},
+	{"id": "7", "nome": "Lucas Rocha", "endereco": "Rua do Cedro, 404"},
+	{"id": "8", "nome": "Juliana Costa", "endereco": "Av. das Nações, 505"},
+	{"id": "9", "nome": "Rafael Almeida", "endereco": "Rua do Campo, 606"},
+	{"id": "10", "nome": "Patrícia Ramos", "endereco": "Rua das Laranjeiras, 707"}
+]
